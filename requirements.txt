@@ -2,9 +2,14 @@
 -e .
 
 # external requirements
+altair
 click
 Sphinx
 coverage
 awscli
 flake8
+ipywidgets
+matplotlib
 python-dotenv>=0.5.1
+ucimlrepo
+ydata-profiling
